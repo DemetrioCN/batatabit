@@ -1,2 +1,2 @@
-# batatabit
-Un sitio web creado en el curso de Mobile First de Platzi.
+# Batatabit
+Maquetamos este sitio web, en el curso de [Responsive Desing: Maquetación Mobile First](https://platzi.com/clases/mobile-first/) de Platzi, partiendo de su wireframe creado con Figma. 
